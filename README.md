@@ -53,7 +53,7 @@ make run
 | r    | 武器のリロード             | 
 | e    | ランダムな位置にテレポート | 
 | u    | 180度回転                  | 
-|      |                            | 
+
 ![alt text](doc/img/main.png)
 
 ![alt text](doc/img/sub.png)
